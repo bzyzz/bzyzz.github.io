@@ -16,10 +16,9 @@ I received my M.S. in [Intelligent Information Systems](https://miis.cs.cmu.edu/
 ## Research Interests
 My primary research interests are in the fields of Natural Language Processing (NLP) and Data Mining (DM).
 
-- **Natural Language Processing (NLP)**:
-  - Information extraction, text classification, …
-  - Weakly-supervised/few-shot/zero-shot learning
-  - Fact-checking for generative large language models
+- Information extraction, text classification, …
+- Weakly-supervised/few-shot/zero-shot learning
+- Fact-checking for generative large language models
 
 <details>
 <summary>Load More</summary>
