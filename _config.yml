@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xuan Wang"
+title                    : "Zhenyu Bi"
 title_separator          : "-"
-name                     : &name "Xuan Wang"
-description              : &description "Assistant Professor"
-url                      : https://xuanwang91.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhenyu Bi"
+description              : &description "Ph.D. Candidate"
+url                      : https://bzyzz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : ""
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xuanwang91/xuanwang91.github.io"
+repository               : "bzyzz/bzyzz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,8 +57,8 @@ atom_feed:
 # yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : xwang174
+# twitter:
+#   username               : 
 # facebook:
 #   username               :
 #   app_id                 :
@@ -84,14 +84,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xuan Wang"
-  avatar           : "/img/Xuan2016.jpg"
-  bio              : "Assistant Professor"
-  location         : "Data and Decision Sciences 376"
+  name             : "Zhenyu Bi"
+  avatar           : ""
+  bio              : "Ph.D. Candidate"
+  location         : "Data and Decision Sciences 364"
   employer         : "Virginia Tech"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=_IVJi6UAAAAJ&hl=en"
-  email            : "xuanw@vt.edu"
+  # googlescholar    : ""
+  email            : "zhenyub@vt.edu"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   # bitbucket        :
@@ -100,20 +100,20 @@ author:
   # flickr           :
   # facebook         :
   # foursquare       :
-  github           : "xuanwang91"
+  github           : "bzyzz"
   # google_plus      :
   # keybase          :
   # instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   # lastfm           :
-  LinkedIn         : "www.linkedin.com/in/xwang2"
+  LinkedIn         : "www.linkedin.com/in/zhenyu-bi-817814178"
   # orcid            : "http://orcid.org/yourorcidurl"
   # pinterest        :
   # soundcloud       :
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
   # steam            :
   # tumblr           :
-  twitter          : "xwang174"
+  # twitter          : "xwang174"
   # vine             :
   # weibo            :
   # xing             :
