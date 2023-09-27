@@ -20,9 +20,11 @@ My primary research interests are in the fields of Natural Language Processing (
 - Weakly-supervised/few-shot/zero-shot learning
 - Fact-checking for generative large language models
 
+<!--- 
 <details>
 <summary>Load More</summary>
 </details>
+--->
 
 
 <!--- 
