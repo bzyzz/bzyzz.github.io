@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in the [Computer Science Department](https://cs.vt.edu/) at Virginia Tech (VT). I am also a student member of the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/) at VT.
+I am a Ph.D. Candidate in the [Computer Science Department](https://cs.vt.edu/) at Virginia Tech (VT), advised by Dr. [Xuan Wang](https://xuanwang91.github.io). I am also a student member of the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/) at VT.
 
 I received my M.S. in [Intelligent Information Systems](https://miis.cs.cmu.edu/) from the Carnegie Mellon University (CMU) under the supervision of Dr. [Teruko Mitamura](http://cs.cmu.edu/~teruko/). I received my B.S. in [Computer Science](https://cse.ucsd.edu/) and [Cognitive Science](https://cogsci.ucsd.edu/) from University of California, San Diego (UCSD) under the supervison of Dr. [Jingbo Shang](http://shangjingbo1226.github.io).
 
-Important Note: Zhenyu Bi, the human being, is the one on the left of the profile picture, not the koala on the right.
+Important Note: Zhenyu Bi, the Ph.D. Candidate in CS, is the human being on the left of the profile picture, not the koala on the right.
 
 
 ## Research Interests
