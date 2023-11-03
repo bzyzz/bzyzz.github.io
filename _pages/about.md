@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in the [Computer Science Department](https://cs.vt.edu/) at Virginia Tech (VT), advised by Dr. [Xuan Wang](https://xuanwang91.github.io). I am also a student member of the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/) at VT.
+I am a Ph.D. Candidate in the [Computer Science Department](https://cs.vt.edu/) at Virginia Tech (VT), and very fortunately advised by Dr. [Xuan Wang](https://xuanwang91.github.io). I am also a student member of the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/) at VT.
 
 I received my M.S. in [Intelligent Information Systems](https://miis.cs.cmu.edu/) from the Carnegie Mellon University (CMU) under the supervision of Dr. [Teruko Mitamura](http://cs.cmu.edu/~teruko/). I received my B.S. in [Computer Science](https://cse.ucsd.edu/) and [Cognitive Science](https://cogsci.ucsd.edu/) from University of California, San Diego (UCSD) under the supervison of Dr. [Jingbo Shang](http://shangjingbo1226.github.io).
 
@@ -21,6 +21,14 @@ My primary research interests are in the fields of Natural Language Processing (
 - Information extraction, text classification, …
 - Weakly-supervised/few-shot/zero-shot learning
 - Fact-checking for generative large language models
+
+## Personal Life
+Ernest Hemingway once said "The world is a fine place worth fighting for". I agree with the second part.
+
+- I love road-trips, especially long-distance drives.
+- I can play some easy tunes on piano and violin.
+- Anime lover. Especially KyoAni. Big fan of K-On! and Suzumiya Haruhi.
+- Ramen enthusiast. Ping me anytime if you want to visit some good ramen shop!
 
 <!--- 
 <details>
