@@ -23,7 +23,8 @@ My primary research interests are in the fields of Natural Language Processing (
 - Fact-checking for generative large language models
 
 ## Personal Life
-<blockquote>Ernest Hemingway once said "The world is a fine place worth fighting for". 
+<blockquote>Ernest Hemingway once said "The world is a fine place worth fighting for".
+  
 I agree with the second part.</blockquote>
 
 - I love road-trips, especially long-distance drives.
