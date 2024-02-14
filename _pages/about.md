@@ -33,7 +33,7 @@ I agree with the second part.</blockquote>
 - Ramen enthusiast. Ping me anytime if you want to visit some good ramen shop!
 
 ## Sitemap
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=m3Xn-QBlakZsZithoNpD_qENtnpq13ylzjrBEfEJKtA&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1byis" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=m3Xn-QBlakZsZithoNpD_qENtnpq13ylzjrBEfEJKtA&cl=ffffff"></a>
 
 <!--- 
 <details>
