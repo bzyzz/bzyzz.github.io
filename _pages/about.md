@@ -32,6 +32,9 @@ I agree with the second part.</blockquote>
 - Anime lover. Especially KyoAni. Big fan of K-On! and Suzumiya Haruhi.
 - Ramen enthusiast. Ping me anytime if you want to visit some good ramen shop!
 
+## Sitemap
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=m3Xn-QBlakZsZithoNpD_qENtnpq13ylzjrBEfEJKtA&cl=ffffff&w=a"></script>
+
 <!--- 
 <details>
 <summary>Load More</summary>
