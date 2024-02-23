@@ -12,7 +12,7 @@ I am currently a Ph.D. student in the [Computer Science Department](https://cs.v
 
 I received my M.S. in [Intelligent Information Systems](https://miis.cs.cmu.edu/) from the Carnegie Mellon University (CMU) under the supervision of Dr. [Teruko Mitamura](http://cs.cmu.edu/~teruko/). I received my B.S. in [Computer Science](https://cse.ucsd.edu/) and [Cognitive Science](https://cogsci.ucsd.edu/) from University of California, San Diego (UCSD) under the supervison of Dr. [Jingbo Shang](http://shangjingbo1226.github.io).
 
-Important Note: Zhenyu Bi, the Ph.D. Candidate in CS, is the human being on the left of the profile picture, not the koala on the right.
+Important Note: Zhenyu Bi, the Ph.D. Student in CS, is the human being on the left of the profile picture, not the koala on the right.
 
 
 ## Research Interests
