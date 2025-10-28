@@ -16,7 +16,7 @@ author_profile: true
 
 5. **Zhenyu Bi**, Daniel Hajialigol, Jie Hao, Zhongkai Sun, and Xuan Wang, “StoC-TOT: Stochastic Tree-of-Thought with Constrained Decoding for Complex Reasoning in Multi-Hop Question Answering”, in Proc. 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (**NAACL’25 KnowledgeNLP**), pages TBD, April 29–May 4, 2025, Albuquerque, USA
 
-6. Yang Li, Han Meng, **Zhenyu Bi**, Ingolv T. Urnes, and Haipeng Chen, "Population Aware Diffusion for Time Series Generation", in Proc. of the 39th AAAI Conference on Artificial Intelligence (**AAAI’25**), Feburary 25, 2025–March 4, 2025, Philadelphia, USA
+6. Yang Li, Han Meng, **Zhenyu Bi**, Ingolv T. Urnes, and Haipeng Chen, "Population Aware Diffusion for Time Series Generation", in Proc. of the 39th AAAI Conference on Artificial Intelligence (**AAAI’25**), Feburary 25–March 4, 2025, Philadelphia, USA
 
 7. **Zhenyu Bi**, Sajib Acharjee Dip, Daniel Hajialigol, Sindhura Kommu, Hanwen Liu, Meng Lu, and Xuan Wang. “AI for Biomedicine in the Era of Large Language Models.” arXiv preprint arXiv:2403.15673 (2024)
 
