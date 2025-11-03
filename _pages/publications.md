@@ -16,7 +16,7 @@ author_profile: true
 
 5. Yang Li, Han Meng, **Zhenyu Bi**, Ingolv T. Urnes, and Haipeng Chen, "Population Aware Diffusion for Time Series Generation", in Proc. of the 39th AAAI Conference on Artificial Intelligence (**AAAI’25**), Feburary 25–March 4, 2025, Philadelphia, USA
 
-6.**Zhenyu Bi**, Minghao Xu, Jian Tang, and Xuan Wang, “AI for Science in the Era of Large Language Models”, in Proc. 2024 Conf. on Empirical Methods in Natural Language Processing (**EMNLP’24**) (Conference Tutorial), pages 32-38, November 12-16, 2024, Miami, USA
+6. **Zhenyu Bi**, Minghao Xu, Jian Tang, and Xuan Wang, “AI for Science in the Era of Large Language Models”, in Proc. 2024 Conf. on Empirical Methods in Natural Language Processing (**EMNLP’24**) (Conference Tutorial), pages 32-38, November 12-16, 2024, Miami, USA
 
 7. **Zhenyu Bi**, Sajib Acharjee Dip, Daniel Hajialigol, Sindhura Kommu, Hanwen Liu, Meng Lu, and Xuan Wang. “AI for Biomedicine in the Era of Large Language Models.” arXiv preprint arXiv:2403.15673 (2024)
 
